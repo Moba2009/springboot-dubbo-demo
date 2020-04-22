@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
  * @Version 1.0
  **/
 @Service
-@Component
+//@Component
 public class ProviderServiceImpl implements ProviderService {
 
     @Override
